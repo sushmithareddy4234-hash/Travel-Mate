@@ -57,7 +57,7 @@ Travel-Mate
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Travel-Mate.git
+git clone https://github.com/sushmithareddy4234-hash/Travel-Mate.git
 cd Travel-Mate
 ```
 
